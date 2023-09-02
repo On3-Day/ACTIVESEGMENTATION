@@ -64,7 +64,7 @@ Now your project should be set up with the necessary dependencies and configurat
 
 To test that everything is working correctly, you can run a testing script called "TestSQLCells.java". Follow these steps to run the script:
 
-A sample datasetPath can be found here.
+A sample datasetPath can be found [here](https://github.com/aaryan-gautam/ACTIVESEGMENTATION/tree/master/small_data).
 
 - Open "TestSQLCells.java" in your IDE.
 - Modify the `static String datasetPath` to specify the dataset path.
